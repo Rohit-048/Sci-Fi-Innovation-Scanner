@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1087499578770",
+    "project_id": "sci-fi-club-9624a",
+    "storage_bucket": "sci-fi-club-9624a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087499578770:android:bedb4c1dd39ed63909e54b",
+        "android_client_info": {
+          "package_name": "com.example.sci_ficlub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqE2uxhId8KhgbtVN9Y5lGBnj1QfAcYnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
