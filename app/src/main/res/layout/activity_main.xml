@@ -7,14 +7,6 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <!-- Background Image -->
-
-    <!-- Header Text -->
-
-    <!-- Lottie Animation for Planet -->
-
-    <!-- Rectangle box for camera preview -->
-
     <ImageView
         android:id="@+id/backgroundImage"
         android:layout_width="0dp"
