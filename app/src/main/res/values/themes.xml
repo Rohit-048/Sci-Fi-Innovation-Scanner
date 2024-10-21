@@ -2,6 +2,8 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.SciFiClub" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
+        <item name="android:statusBarColor">#000000</item> <!-- Grey color -->
+        <!-- You can use a color resource instead, e.g., @color/my_status_bar_color -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
