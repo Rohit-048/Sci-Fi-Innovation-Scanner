@@ -1,0 +1,14 @@
+<resources>
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#FFA500</item> <!-- Orange -->
+        <item name="colorPrimaryDark">@android:color/black</item> <!-- Keeps the primary dark color as black -->
+        <item name="colorAccent">#FFA500</item> <!-- Orange accent color -->
+
+        <!-- Change the status bar color to black -->
+        <item name="android:statusBarColor">@android:color/black</item> <!-- Set to black -->
+
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowTranslucentStatus">false</item> <!-- Set to false for opaque status bar -->
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+</resources>
